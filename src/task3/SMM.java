@@ -11,6 +11,6 @@ public class SMM extends Marketing{
 
     @Override
     public void marketing() {
-        super.marketing();
+        System.out.println("Method from SMM class");
     }
 }
